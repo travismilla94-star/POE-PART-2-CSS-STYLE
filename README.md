@@ -3,6 +3,8 @@
 ## Student Information
 - SOMILA TAFENI
 - ST10482481
+- GROUP 1
+- WEDE5020
 
 ## Project Overview
 Ubuntu Paws Animal Rescue is a fictional, volunteer-run non-profit organisation based in
@@ -179,12 +181,12 @@ Track changes and improvements to the website here as the project progresses.
 
 | Date | Change | Author |
 |---|---|---|
-| [Date] | Initial project structure, HTML pages for all 5 sitemap pages, base stylesheet, and README created for Part 1. | [Your Full Name] |
-| [Date] | Part 2: Rebuilt `css/style.css` with CSS custom properties, a typography scale (Google Fonts: Poppins/Nunito Sans), CSS Grid page layout (`grid-template-areas`) and Flexbox navigation, `:hover`/`:focus-visible`/`:active` states on links, buttons and form fields, and mobile-first responsive breakpoints at 600px/900px/1200px. Added a responsive `<picture>`/`srcset` hero image to `index.html` and a two-column grid layout to `contact.html` on wider screens. | [Your Full Name] |
-| [Date] | Part 2 visual design pass: added original SVG artwork (`hero-mobile.svg`, `hero-desktop.svg`, `favicon.svg`) and inline SVG icons across all pages; restructured the homepage hero into a two-column CSS Grid (art-directed responsive image); added a full-bleed stats band, icon badges, gradient buttons/header, card hover/lift effects, and a `prefers-reduced-motion`-aware fade-in entrance animation. | [Your Full Name] |
-| [Date] | Part 2 visual polish pass 2: diagonal `clip-path` on the stats band; initials-based avatars on the team list; an "Available!" ribbon badge on animal cards; icon-prefixed form fields (email/phone/name, via inline SVG `background-image`); a fixed floating "Adopt & Donate" call-to-action button; a "Back to top" footer link; trust-badge pills in the hero; a decorative blob behind inner-page headings; and a button hover "shine" sweep. | [Your Full Name] |
-| [Date] | Part 2 colour expansion: extended the palette from 2 to 4 brand colours (teal, orange, gold, blue) via new custom properties/gradients; applied them to cycle across icon badges, team avatars, animal-card and location-card accents, and the header background; added a blue collar and gold bow tie to the hero illustration's dog and cat, and gave each scattered paw print a different palette colour. | [Your Full Name] |
-| [Date] | Part 1 feedback corrections: *(no specific Part 1 feedback was available at the time of this edit — add entries here once feedback is received and addressed)*. | [Your Full Name] |
+| [Date] | Initial project structure, HTML pages for all 5 sitemap pages, base stylesheet, and README created for Part 1. | SOMILA |
+| [Date] | Part 2: Rebuilt `css/style.css` with CSS custom properties, a typography scale (Google Fonts: Poppins/Nunito Sans), CSS Grid page layout (`grid-template-areas`) and Flexbox navigation, `:hover`/`:focus-visible`/`:active` states on links, buttons and form fields, and mobile-first responsive breakpoints at 600px/900px/1200px. Added a responsive `<picture>`/`srcset` hero image to `index.html` and a two-column grid layout to `contact.html` on wider screens. | SOMILA |
+| [Date] | Part 2 visual design pass: added original SVG artwork (`hero-mobile.svg`, `hero-desktop.svg`, `favicon.svg`) and inline SVG icons across all pages; restructured the homepage hero into a two-column CSS Grid (art-directed responsive image); added a full-bleed stats band, icon badges, gradient buttons/header, card hover/lift effects, and a `prefers-reduced-motion`-aware fade-in entrance animation. | SOMILA |
+| [Date] | Part 2 visual polish pass 2: diagonal `clip-path` on the stats band; initials-based avatars on the team list; an "Available!" ribbon badge on animal cards; icon-prefixed form fields (email/phone/name, via inline SVG `background-image`); a fixed floating "Adopt & Donate" call-to-action button; a "Back to top" footer link; trust-badge pills in the hero; a decorative blob behind inner-page headings; and a button hover "shine" sweep. | SOMILA |
+| [Date] | Part 2 colour expansion: extended the palette from 2 to 4 brand colours (teal, orange, gold, blue) via new custom properties/gradients; applied them to cycle across icon badges, team avatars, animal-card and location-card accents, and the header background; added a blue collar and gold bow tie to the hero illustration's dog and cat, and gave each scattered paw print a different palette colour. | SOMILA |
+| [Date] | Part 1 feedback corrections: *(no specific Part 1 feedback was available at the time of this edit — add entries here once feedback is received and addressed)*. | SOMILA |
 
 ## References
 References are cited using the Harvard Style Referencing Guide, adapted for the IIE.
@@ -192,8 +194,7 @@ References specific to each Website Project Proposal are included in the
 *Website Project Proposal* document. General references used to complete Part 1 are
 listed below and will be updated with new references as required in Part 2 and Part 3.
 
-- [Author/Organisation. (Year). *Title of source*. Retrieved from URL — add each
-  source you actually use for code snippets, text content, or images.]
+- Don Duckett. (2026).https://www.boot.dev/blog/education/best-web-dev-books . Retrieved from URL
 - Google. (2026). *Google Fonts: Poppins & Nunito Sans*. Retrieved from https://fonts.google.com/
 - All illustrations and icons (`images/hero-mobile.svg`, `images/hero-desktop.svg`, `images/favicon.svg`, and inline page icons) are original vector artwork created for this project — no external image sources used.
 
