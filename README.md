@@ -1,10 +1,8 @@
 # Ubuntu Paws Animal Rescue — Website Project
 
 ## Student Information
-- **Full Name:** [Your Full Name]
-- **Student Number:** [Student Number]
-- **Subject:** [Subject Name and Code]
-- **Group:** [Group, if applicable]
+- SOMILA TAFENI
+- ST10482481
 
 ## Project Overview
 Ubuntu Paws Animal Rescue is a fictional, volunteer-run non-profit organisation based in
